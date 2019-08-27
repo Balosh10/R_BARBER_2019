@@ -8136,11 +8136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj",
+      "projectUniqueName": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj",
       "projectName": "R_BARBER_2019.Infrastructure",
-      "projectPath": "D:\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj",
+      "projectPath": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ocespedes\\.nuget\\packages\\",
-      "outputPath": "D:\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\obj\\",
+      "outputPath": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

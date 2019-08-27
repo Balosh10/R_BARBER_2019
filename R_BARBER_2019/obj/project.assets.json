@@ -12566,11 +12566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R_BARBER_2019\\R_BARBER_2019\\R_BARBER_2019.csproj",
+      "projectUniqueName": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019\\R_BARBER_2019.csproj",
       "projectName": "R_BARBER_2019",
-      "projectPath": "D:\\R_BARBER_2019\\R_BARBER_2019\\R_BARBER_2019.csproj",
+      "projectPath": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019\\R_BARBER_2019.csproj",
       "packagesPath": "C:\\Users\\ocespedes\\.nuget\\packages\\",
-      "outputPath": "D:\\R_BARBER_2019\\R_BARBER_2019\\obj\\",
+      "outputPath": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12589,8 +12589,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj": {
-              "projectPath": "D:\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj"
+            "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj": {
+              "projectPath": "D:\\R_BARBER\\R_BARBER_2019\\R_BARBER_2019.Infrastructure\\R_BARBER_2019.Infrastructure.csproj"
             }
           }
         }

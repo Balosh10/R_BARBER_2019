@@ -9,3 +9,14 @@ D:\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2
 D:\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.AssemblyInfo.cs
 D:\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.dll
 D:\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.pdb
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\bin\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.deps.json
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\bin\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.runtimeconfig.json
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\bin\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.runtimeconfig.dev.json
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\bin\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.dll
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\bin\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.pdb
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.csprojAssemblyReference.cache
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.csproj.CoreCompileInputs.cache
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.AssemblyInfoInputs.cache
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.AssemblyInfo.cs
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.dll
+D:\R_BARBER\R_BARBER_2019\R_BARBER_2019.Infrastructure\obj\Debug\netcoreapp2.2\R_BARBER_2019.Infrastructure.pdb
